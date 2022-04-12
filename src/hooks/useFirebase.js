@@ -9,6 +9,7 @@ const googleProvider = new GoogleAuthProvider();
 
 const useFirebse=()=>{
     const[user,setUser]=useState({})
+    // console.log(user)
 
     
 
